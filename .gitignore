@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+runs*/
+datos_manzanas/
+resultados_manzanas/
+resultados_manzanas.zip
+*.pt
+!weights/best.pt
+*.mp4
+!demo/video_detectado.mp4
+.env
+.DS_Store
+PENDIENTE.txt
