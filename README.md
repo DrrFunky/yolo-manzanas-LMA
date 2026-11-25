@@ -1,14 +1,3 @@
----
-title: Yolo Manzanas
-emoji: 📊
-colorFrom: red
-colorTo: indigo
-sdk: static
-pinned: false
-license: mit
-short_description: Detecta manzanas en imágenes y las clasifica como apple o da
----
-
 # Detector de manzanas con YOLO26
 
 ![Detecciones sobre fotos nuevas](demo/deteccion_ejemplos.png)
