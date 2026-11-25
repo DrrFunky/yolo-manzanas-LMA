@@ -15,7 +15,7 @@ short_description: Detecta manzanas en imágenes y las clasifica como apple o da
 
 Detecta manzanas en imágenes y las clasifica como `apple` o `damaged_apple`.
 
-[▶ Más ejemplos](demo/video_cuadros.png) · [📓 Notebook](notebook.ipynb) · [🌐 Ver demo web](https://huggingface.co/spaces/DrrFunky/yolo-manzanas)
+[▶ Más ejemplos](demo/video_cuadros.png) · [📓 Notebook](notebook.ipynb) · [💻 Código en GitHub](https://github.com/DrrFunky/yolo-manzanas-portafolio) · [🌐 Ver demo web](https://huggingface.co/spaces/DrrFunky/yolo-manzanas)
 
 <details>
 <summary>Resultado en test</summary>
