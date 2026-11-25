@@ -26,6 +26,7 @@ python app.py
 Universidad Bernardo O'Higgins · Evaluación 03
 
 **Contribuidores:** 
+
 [Lucas Benítez](https://github.com/lbenitezinformatico) · [Martín Durán](https://github.com/Kuzub0) · Alonso Plane
 
 Licencia del código: MIT · Dataset: *Apple Sorting v2* (Roboflow Universe, CC BY 4.0).
